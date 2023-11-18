@@ -8,4 +8,4 @@ Print in place. Printed in PLA on a Prusa MK3s 0.3mm, no brim. Made with OpenSCA
 
 Sans assemblage. Imprimé en PLA sur une Prusa MK3s en 0.3mm, sans support. Réalisé avec OpenSCAD.
 
-![](slicer.jpg | width=480)
+<img src="./slicer.jpg" alt="slicer screenshot" width="480" />
